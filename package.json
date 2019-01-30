@@ -14,8 +14,8 @@
     "@babel/polyfill": "^7.2.5",
     "@babel/preset-env": "^7.3.1",
     "babel-core": "^6.26.3",
-    "babel-jest": "^23.6.0",
-    "jest": "^23.6.0",
+    "babel-jest": "^24.0.0",
+    "jest": "^24.0.0",
     "regenerator-runtime": "^0.12.1"
   }
 }
